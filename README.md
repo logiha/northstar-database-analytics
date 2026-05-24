@@ -8,10 +8,10 @@ This repository contains the implementation files and analytical notebooks devel
   SQL queries and R-based operational analysis
 
 * NorthStar_Analytics.ipynb
-  Python data processing, analytics, and visualisation
+  Python data processing, analytics and visualisation
 
 * NorthStar_MongoDBipynb.ipynb
-  MongoDB CRUD operations, aggregation pipelines, indexing, and query optimisation
+  MongoDB CRUD operations, aggregation pipelines, indexing and query optimisation
 
 ## Technologies Used
 
